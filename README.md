@@ -17,7 +17,7 @@ macOS 14+ · Apple Silicon and Intel · free.
 
 ### ⬇️ [Download the latest release](https://github.com/batwolf-commits/leftspace/releases/latest)
 
-![LeftSpace](docs/screenshot.png)
+![LeftSpace scan results](docs/results.png)
 
 ## Why LeftSpace
 
