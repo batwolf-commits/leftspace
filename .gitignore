@@ -1,0 +1,21 @@
+# Swift Package Manager / build output
+.build/
+build/
+dist/
+*.dmg
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Local tooling
+.claude/
+
+# Local signing material (never commit private keys / keychains)
+*.keychain-db
+*.p12
+*.cer

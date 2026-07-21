@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>LeftSpace</string>
+    <key>CFBundleDisplayName</key>
+    <string>LeftSpace</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.storagecleaner.app</string>
+    <key>CFBundleExecutable</key>
+    <string>StorageCleanerApp</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIconName</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <!-- Regular foreground app (Dock icon + menu bar), not an accessory. -->
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <!-- Not sandboxed: this is a direct-download, notarized app that needs to read
+         cache locations across the user's Library. No App Sandbox entitlement. -->
+</dict>
+</plist>
