@@ -2,6 +2,12 @@
 
 **One app that cleans the everyday junk and the developer junk — so a developer doesn't need five tools, and a regular user still gets value.**
 
+[![Latest release](https://img.shields.io/github/v/release/batwolf-commits/leftspace?label=download)](https://github.com/batwolf-commits/leftspace/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/batwolf-commits/leftspace/total)](https://github.com/batwolf-commits/leftspace/releases)
+![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-blue)
+![Built with Swift](https://img.shields.io/badge/Swift-6-orange?logo=swift&logoColor=white)
+[![License: MIT](https://img.shields.io/github/license/batwolf-commits/leftspace)](LICENSE)
+
 LeftSpace finds the gigabytes of cache, log, and leftover files that Finder hides —
 especially developer-tool caches like npm, Gradle, Xcode DerivedData, and
 `node_modules` — and removes them **safely**. Move-to-Trash by default, with a hard
@@ -9,7 +15,9 @@ safety guard that can never touch your documents, photos, or system files.
 
 macOS 14+ · Apple Silicon & Intel · free.
 
-<!-- TODO: add a screenshot here once you have one -->
+### ⬇️ [Download the latest release](https://github.com/batwolf-commits/leftspace/releases/latest)
+
+<!-- Add a screenshot: drop a PNG at docs/screenshot.png and uncomment the line below. -->
 <!-- ![LeftSpace](docs/screenshot.png) -->
 
 ## Why LeftSpace
