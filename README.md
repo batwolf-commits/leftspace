@@ -37,6 +37,10 @@ opening the full window:
 
 <img src="docs/menubar.png" width="360" alt="LeftSpace menu bar widget">
 
+Start screen with a one-click scan:
+
+<img src="docs/screenshot.png" width="520" alt="LeftSpace start screen">
+
 ## Safety first
 
 - **Trash-first by default.** Everything is recoverable until you empty the Trash.
