@@ -17,8 +17,7 @@ macOS 14+ · Apple Silicon and Intel · free.
 
 ### ⬇️ [Download the latest release](https://github.com/batwolf-commits/leftspace/releases/latest)
 
-<!-- Add a screenshot: drop a PNG at docs/screenshot.png and uncomment the line below. -->
-<!-- ![LeftSpace](docs/screenshot.png) -->
+![LeftSpace](docs/screenshot.png)
 
 ## Why LeftSpace
 
@@ -32,6 +31,11 @@ space actually goes. The dev-only tools are fragmented and CLI-only. LeftSpace d
 - **Project build artifacts:** `node_modules`, virtualenvs, build folders in your
   projects.
 - **App leftovers:** files left behind by apps you've already deleted.
+
+A menu bar widget gives you a quick disk overview and a one-click clean without
+opening the full window:
+
+<img src="docs/menubar.png" width="360" alt="LeftSpace menu bar widget">
 
 ## Safety first
 
